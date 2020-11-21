@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="VARUNA - LCER SW" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="VARUNA - LCER SW">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="public_html/" local="$PROJECT_DIR$/public" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/.appdata" />
+            <excludedPath path="/.cagefs" />
+            <excludedPath path="/.cl.selector" />
+            <excludedPath path="/.cpanel" />
+            <excludedPath path="/.cphorde" />
+            <excludedPath path="/.htpasswds" />
+            <excludedPath path="/.kapps" />
+            <excludedPath path="/.softaculous" />
+            <excludedPath path="/.spamassassin" />
+            <excludedPath path="/.trash" />
+            <excludedPath path="/access-logs" />
+            <excludedPath path="/etc" />
+            <excludedPath path="/lscache" />
+            <excludedPath path="/logs" />
+            <excludedPath path="/mail" />
+            <excludedPath path="/public_ftp" />
+            <excludedPath path="/ssl" />
+            <excludedPath path="/tmp" />
+            <excludedPath path="/.bash_logout" />
+            <excludedPath path="/.bash_profile" />
+            <excludedPath path="/.bashrc" />
+            <excludedPath path="/.contactemail" />
+            <excludedPath path="/.gemrc" />
+            <excludedPath path="/.lastlogin" />
+            <excludedPath path="/.spamassassinboxenable" />
+            <excludedPath path="/.spamassassinenable" />
+            <excludedPath path="/www" />
+            <excludedPath path="/public" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>
